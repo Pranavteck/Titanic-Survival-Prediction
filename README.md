@@ -1,15 +1,20 @@
 # Titanic Survival Prediction
 
-Machine Learning project using Logistic Regression.
+## Overview
+This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
 
-## Libraries Used
+## Tools Used
+- Python
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn
 
-## Accuracy
-75%
+## Model
+- Logistic Regression
+
+## Results
+- Accuracy: 75% 
 
 ## Author
 Pranav
